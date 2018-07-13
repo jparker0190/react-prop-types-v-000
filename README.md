@@ -2,7 +2,7 @@
 
 ## Overview
 
-We'll cover propTypes and why they're a handy tool when working with components. 
+We'll cover propTyps and why they're a handy tool when working with components. 
 
 ## Objectives
 1. Describe how to use `PropTypes` declarations
